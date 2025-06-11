@@ -67,4 +67,4 @@ Customer Experience Improvement
 🏁 Conclusion
 This project is a complete end-to-end Power BI implementation focused on retail analytics, showcasing the power of data storytelling and dashboarding in driving business growth.
 
-Made with 💡 by [Your Name]
+Made by [Chaitanya Sable]
